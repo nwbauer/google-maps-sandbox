@@ -1,0 +1,6 @@
+client/bower_components/*
+client/.DS_Store
+server/.DS_Store
+.DS_Store
+node_modules/*
+client/config.js
